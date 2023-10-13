@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @badruk
 - 👀 I’m interested in Science and stuff
 - 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on immortality
 - 📫 How to reach me, ask
 
 Former: Medical Physicist and Security / AI Consultant 
