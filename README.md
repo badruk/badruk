@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on immortality
 - 📫 How to reach me, ask
 
-As was: Medical Physicist 
-AS IS:  Security Consultant
-TO BE:  Dunno
+Former: Medical Physicist and Security / AI Consultant 
+To be:  Dunno
 <!---
 badruk/badruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
